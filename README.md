@@ -1,5 +1,8 @@
 # E-CATslv
+
 EtherCAT slave board
+Altium Designer 18
+All components is located in L1 library (Lib1 repository) 
 
 The board contains:
 4 channels of an 18-bit ADC
